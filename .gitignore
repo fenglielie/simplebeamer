@@ -1,3 +1,4 @@
 .aux/
 *.synctex.gz
 *.pdf
+!demo/demo.pdf
