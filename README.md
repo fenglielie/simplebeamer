@@ -36,3 +36,8 @@ Features:
     - Use biblatex package for bibliography support. Comment out `\addbibresource{reference.bib}` if no bibliography is used to avoid compilation errors.
     - Use algorithm2e for algorithm environments.
     - Use listings for code environments.
+
+
+![](demo/demo-1.png)
+
+![](demo/demo-2.png)
