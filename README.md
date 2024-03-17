@@ -11,7 +11,6 @@
 - 字体方面：
     - 正文的英文字体使用了palatino字体，看起来比默认字体更粗更圆润；
     - 没有使用自定义中文字体；
-    - 数学字体使用了Beamer默认的无衬线字体，看起来比较丑陋，但辨识度高。
 - 宏包支持：
     - 使用subcaption宏包支持并列多图；
     - 使用biblatex宏包支持参考文献，不使用参考文献时需要注释掉`\addbibresource{reference.bib}`，否则编译错误；
@@ -30,7 +29,6 @@ Features:
 - Fonts:
     - Palatino font used for English text, providing a bolder and more rounded appearance than the default font.
     - No custom Chinese fonts used.
-    - Default Beamer sans-serif font for mathematical symbols, which may look less aesthetically pleasing but ensures high legibility.
 - Package support:
     - Use subcaption for handling side-by-side figures.
     - Use biblatex package for bibliography support. Comment out `\addbibresource{reference.bib}` if no bibliography is used to avoid compilation errors.
